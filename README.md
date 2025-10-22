@@ -1,16 +1,52 @@
-# React + Vite
+# Maria Dragutu – Front-End Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to my personal portfolio! I'm **Maria Dragutu**, an aspiring **Front-End Developer** focused on building clean, responsive, and accessible websites and apps using modern web technologies like **React**, **Tailwind CSS**, and **Vite**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## About Me
 
-## React Compiler
+I’m a certified Front-End Developer with a strong foundation built through **Meta’s Front-End Developer** and **IBM’s Web Development** courses on Coursera.
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+I specialize in building modern, accessible, and responsive user interfaces using **React**, **HTML**, **CSS**, and **JavaScript**.  
+I enjoy turning design ideas into real, interactive products that are easy to use and pleasant to look at.
 
-## Expanding the ESLint configuration
+This portfolio is a showcase of my work, growth, and dedication to becoming a top-tier web developer.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## Tech Stack
+
+These are the technologies I've studied and used through hands-on projects:
+
+- **Languages:**
+  - HTML5, CSS3, JavaScript (ES6+)
+- **Frameworks & Libraries:**
+  - React.js, Bootstrap, Tailwind CSS
+- **Tools & Platforms:**
+  - Git & GitHub, VS Code, Chrome DevTools
+- **Back-End (basic experience):**
+  - Firebase (Auth, Firestore), Node.js (intro level)
+- **Other Skills:**
+  - Responsive design, Flexbox, CSS Grid, Web accessibility (a11y), REST APIs
+
+---
+
+## Projects
+
+You can explore all my work in the [📂 GitHub Portfolio](https://github.com/mariadragutu?tab=repositories), including:
+
+More projects coming soon...
+
+---
+
+## Contact Me
+
+If you'd like to work together, ask a question, or connect:
+
+- 💼 GitHub: [github.com/mariadragutu](https://github.com/mariadragutu)
+- 📧 Email: _(mariadragutu6@gmail.com)_
+
+---
+
+> Thank you for checking out my work! 😊 I’m always learning, always building — and excited to keep growing as a developer.
