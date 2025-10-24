@@ -113,11 +113,10 @@ export default function Projects() {
         </section>
 
         <p className="portfolio-footer">
-          Not only does this portfolio showcase my best work, but it is itself a
-          fully custom project, designed and coded from scratch using React and
-          modern CSS. Here, you’ll find a collection of projects that highlight
-          my journey as a front-end developer — from responsive layouts and
-          interactive components to hands-on use of React, APIs, and web tools.
+          After building a multi-page custom restaurant website from scratch, I
+          challenged myself to apply the same principles to my own personal
+          brand. This led to the creation of a fully responsive, single-page
+          portfolio using React and Vite.
         </p>
       </section>
       <section className="project-section">
@@ -127,7 +126,10 @@ export default function Projects() {
           </div>
           <div className="project-description">
             <h2>
-              <a href="" className="linkcolor">
+              <a
+                href="https://github.com/Drg6MariaE/my-portfolio"
+                className="linkcolor"
+              >
                 Maria Dragutu – Front-End Portfolio Website
               </a>
             </h2>
@@ -139,7 +141,10 @@ export default function Projects() {
               mobile-first design.
             </p>
             <h2>
-              <a href="" className="github">
+              <a
+                href="https://github.com/Drg6MariaE/my-portfolio"
+                className="github"
+              >
                 (GitHub: View Code)
               </a>
             </h2>
@@ -206,6 +211,12 @@ export default function Projects() {
           </div>
         </div>
       </section>
+      <p className="portfolio-footer">
+        With Savora, I focused on structure, design, and layout fundamentals.
+        For this next project, I stepped into modern frameworks and tooling by
+        integrating React, component-based architecture, and optimized builds
+        with Vite.
+      </p>
     </>
   );
 }
