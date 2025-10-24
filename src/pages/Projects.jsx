@@ -2,6 +2,8 @@ import React from "react";
 import "./Projects.css";
 import firstprojectImg from "../assets/firstproject.png";
 import savImg from "../assets/sav.png";
+import porto2Img from "../assets/porto2.png";
+import portofolioImg from "../assets/portofolio.png";
 
 export default function Projects() {
   return (
@@ -120,7 +122,9 @@ export default function Projects() {
       </section>
       <section className="project-section">
         <div className="project-flex">
-          <div className="project-image"></div>
+          <div className="project-image">
+            <img src={portofolioImg} alt="" />
+          </div>
           <div className="project-description">
             <h2>
               <a href="" className="linkcolor">
@@ -197,7 +201,9 @@ export default function Projects() {
               </ul>
             </div>
           </div>
-          <div className="project-screenshot"></div>
+          <div className="project-screenshot">
+            <img src={porto2Img} alt="" />
+          </div>
         </div>
       </section>
     </>
