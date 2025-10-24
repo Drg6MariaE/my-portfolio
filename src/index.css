@@ -1,13 +1,18 @@
 * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-  }
-  html{
-    scroll-behavior: smooth;
-  }
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
 body {
-    background: linear-gradient(to bottom, #052659 0%, #5483b3a9 40%,#021024 100%);
-    font-family: 'Poppins', sans-serif;
-    color: #C1E8FF;
-  }
+  background: linear-gradient(
+    to bottom,
+    #052659 0%,
+    #5483b3a9 40%,
+    #021024 100%
+  );
+  font-family: "Poppins", sans-serif;
+  color: #c1e8ff;
+}

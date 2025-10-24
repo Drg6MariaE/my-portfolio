@@ -29,7 +29,7 @@
   font-family: poppins, sans-serif;
   cursor: pointer;
   padding: 0.5rem 1rem;
-  text-decoration: none; 
+  text-decoration: none;
 }
 
 .headerbtn:hover {
@@ -38,16 +38,16 @@
   transition: all 0.3s ease-in-out;
 }
 .headerbtn a {
-  color: #ffffff; 
-  text-decoration: none; 
+  color: #ffffff;
+  text-decoration: none;
 }
 
 .headerbtn a:visited {
-  color: #ffffff; 
+  color: #ffffff;
 }
 
 .headerbtn a:hover {
-  color: #cfe8ff; 
+  color: #cfe8ff;
 }
 
 @media (max-width: 768px) {
