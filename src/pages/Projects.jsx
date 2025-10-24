@@ -118,26 +118,86 @@ export default function Projects() {
           interactive components to hands-on use of React, APIs, and web tools.
         </p>
       </section>
-      <section className="project">
-        <div className="project-media"></div>
-        <div className="project-description">
-          <h2>Personal Portfolio Website</h2>
-          <p>
-            A responsive site that presents my work, resume, and contact
-            options. Built with React and fully styled from scratch using CSS.
-          </p>
-          <ul>
-            <li>Responsive Layout</li>
-            <li>React + Vite</li>
-            <li>Custom CSS & media queries</li>
-          </ul>
-          <a
-            href="https://yourgithub.io"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            View Live
-          </a>
+      <section className="project-section">
+        <div className="project-flex">
+          <div className="project-image"></div>
+          <div className="project-description">
+            <h2>
+              <a href="" className="linkcolor">
+                Maria Dragutu – Front-End Portfolio Website
+              </a>
+            </h2>
+            <p>
+              A modern, responsive, and accessible portfolio site built with
+              React, React Router, and Vite, styled using custom CSS. This
+              portfolio presents my personal brand, professional journey, and
+              showcases key projects with clean UI, smooth navigation, and
+              mobile-first design.
+            </p>
+            <h2>
+              <a href="" className="github">
+                (GitHub: View Code)
+              </a>
+            </h2>
+          </div>
+        </div>
+
+        <div className="project-details">
+          <div className="project-highlights">
+            <h3>Project Highlights:</h3>
+            <ul>
+              <li>
+                <strong>Responsive Design: </strong> Optimized for both mobile
+                and desktop views
+              </li>
+              <li>
+                <strong>ingle Page Application (SPA):</strong> Built with React
+                Router for smooth client-side navigation
+              </li>
+              <li>
+                <strong>Custom Styling:</strong> Uses raw CSS (with variables)
+                for more control and performance
+              </li>
+              <li>
+                <strong>Fast Performance:</strong> Built with Vite for fast
+                dev/build and optimized bundle
+              </li>
+              <li>
+                <strong>Accessible UI:</strong> Semantic HTML and alt text to
+                improve usability
+              </li>
+              <li>
+                <strong>Clean Codebase:</strong> Component-based structure with
+                external JS/CSS organization
+              </li>
+            </ul>
+            <div className="technolog">
+              <h3>Technologies Used:</h3>
+              <ul className="tech-used">
+                <li>
+                  <strong>
+                    HTML5, CSS3 (with variables), JavaScript (ES6+)
+                  </strong>
+                </li>
+                <li>
+                  <strong>React</strong>
+                </li>
+                <li>
+                  <strong>Vite</strong>
+                </li>
+                <li>
+                  <strong>React Router DOM</strong>
+                </li>
+                <li>
+                  <strong>ESLint</strong>
+                </li>
+                <li>
+                  <strong>npm, Vite Dev Server</strong>
+                </li>
+              </ul>
+            </div>
+          </div>
+          <div className="project-screenshot"></div>
         </div>
       </section>
     </>
